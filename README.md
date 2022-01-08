@@ -1,7 +1,8 @@
 
 ## Screenshots
 
-![App Screenshot](https://github.com/mahithmadwesh94/react-chat-app/blob/master/screenshots/ChatApp.png "Chat Login")
+![App Login Screenshot](https://github.com/mahithmadwesh94/react-chat-app/blob/master/screenshots/ChatApp.png "Chat Login")
+![App Screenshot](https://github.com/mahithmadwesh94/react-chat-app/blob/master/screenshots/ChatApp2.png "Chat")
 
 
 # React Chat Application
